@@ -37,9 +37,6 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
-
-
 ---
 
 ### 👀 Profile Visitors
