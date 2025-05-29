@@ -33,10 +33,7 @@
   <a href="https://drive.google.com/file/d/1x4fNm3kTXod1Zlvonbx6ncPnuiRpYTTj/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume" />
   </a>
-</div>
-
----
-
+</div>100
 ---
 
 ### 👀 Profile Visitors
