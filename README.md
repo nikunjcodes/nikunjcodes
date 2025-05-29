@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikunj</h1>
 <h3 align="center">🚀 A Passionate Learner | 💻 Developer | 🌱 Tech Explorer</h3>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=nikunjcodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-    <img alt="Nikunj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nikunjcodes&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=nikunjcodes&theme=vue-dark&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjcodes&theme=vue-dark&hide_border=true" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjcodes&theme=vue-dark&layout=compact&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjcodes&theme=vue-dark&layout=compact&hide_border=true" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -51,9 +39,6 @@
 
 ### 🐍 GitHub Activity Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikunjcodes/nikunjcodes/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
